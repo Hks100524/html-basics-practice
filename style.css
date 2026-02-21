@@ -1,0 +1,16 @@
+body{
+    background-color: darkgrey;
+}
+
+h3{
+    text-decoration: color midnightblue;
+    text-align: end;
+    font-size: x-large;
+    font-style: italic;
+}
+
+p{
+    background-color: lightgreen;
+    text-align: end;
+    font-style: italic;
+}
